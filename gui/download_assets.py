@@ -41,7 +41,7 @@ except ImportError:
 # ---------------------------------------------------------------------------
 # Google API key — free, no OAuth needed for publicly shared folders.
 # ---------------------------------------------------------------------------
-GOOGLE_API_KEY = "AIzaSyBREU9-TT9YOXhx54DiJqvQ_jpzHp3efOU"
+GOOGLE_API_KEY = "USE_YOUR_OWN_API_KEY"
 
 # ---------------------------------------------------------------------------
 # Configure your Google Drive folder IDs here.
